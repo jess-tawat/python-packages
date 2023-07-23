@@ -1,0 +1,6 @@
+setup.py
+hello/__init__.py
+nconnect_python_package.egg-info/PKG-INFO
+nconnect_python_package.egg-info/SOURCES.txt
+nconnect_python_package.egg-info/dependency_links.txt
+nconnect_python_package.egg-info/top_level.txt
