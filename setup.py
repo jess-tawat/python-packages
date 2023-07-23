@@ -6,7 +6,7 @@ setup(
     author = "Jess Tawat",
     author_email = "jess.tawat@gmail.com",
     description = ("nConnect Python Package"),
-    url = "https://github.com/jess-tawat/python-packages.git",
+    url = "git@github.com:jess-tawat/python-packages.git",
     packages=[
         'hello'
     ],
